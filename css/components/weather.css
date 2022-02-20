@@ -1,0 +1,13 @@
+#weather {
+  box-sizing: border-box;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+#weather span:first-child {
+  margin-right: 10px;
+}
